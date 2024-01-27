@@ -1,0 +1,2258 @@
+
+01/26/2024 15:09:03: Error: Resource temporarily unavailable
+01/26/2024 15:09:13: Task is started
+01/26/2024 15:09:14: Error: Failed to connect to 192.168.0.4:5432
+01/26/2024 15:09:33: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/26/2024 15:09:53: Error: 57P01: закрытие подключения по команде администратора
+01/26/2024 15:10:21: Error: Resource temporarily unavailable
+01/26/2024 15:16:17: Task is started
+01/26/2024 15:16:18: Error: Failed to connect to 192.168.16.4:5432
+01/26/2024 15:16:38: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/26/2024 15:16:57: Error: 57P01: закрытие подключения по команде администратора
+01/26/2024 15:17:25: Error: Resource temporarily unavailable
+01/26/2024 15:17:45: Error: Resource temporarily unavailable
+01/26/2024 18:51:25: Task is started
+01/26/2024 18:51:26: Error: Failed to connect to 172.18.0.3:5432
+01/26/2024 18:51:46: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/26/2024 18:52:05: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/26/2024 18:52:25: Error: 57P01: закрытие подключения по команде администратора
+01/26/2024 18:52:53: Error: Resource temporarily unavailable
+01/26/2024 18:53:13: Error: Resource temporarily unavailable
+01/26/2024 18:53:33: Error: Resource temporarily unavailable
+01/26/2024 18:53:53: Error: Resource temporarily unavailable
+01/27/2024 05:42:23: Task is started
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+01/27/2024 05:42:23: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:23: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:23: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:23: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:23: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:23: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:23: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:23: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:23: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:23: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:23: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:23: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:23: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:23: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:23: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:23: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:23: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:23: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:23: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:23: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:23: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:23: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:23: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:23: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:23: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+2:24: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:24: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+2:24: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:24: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:24: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+Task is paused
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+2:24: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:24: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:24: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:24: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:25: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:25: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:25: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:25: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:25: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:25: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:25: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:25: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:25: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:25: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:25: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:25: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:25: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:25: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:25: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:25: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:25: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:25: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:25: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:25: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:25: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:25: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:25: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:25: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:25: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:25: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:25: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:401/27/2024 05:42:25: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:25: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:25: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:25: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:25: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:25: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:25: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:25: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:25: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:26: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:26: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:26: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:26: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:26: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:26: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:26: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:26: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:26: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:26: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:26: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:26: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:26: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:26: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:26: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:401/27/2024 05:42:26: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:26: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:26: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:26: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:26: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:26: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:26: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:26: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:26: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+Task is paused
+01/27/2024 05:42:26: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:26: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:26: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:26: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+Task is paused
+01/27/2024 05:42:26: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:26: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:26: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+2:26: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:26: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:26: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:26: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:26: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+Task is paused
+01/27/2024 05:42:26: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:26: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:26: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:26: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:26: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:26: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:26: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:26: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:26: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:26: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:26: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:26: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:26: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:26: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:26: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:26: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:26: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:27: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:27: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:27: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:27: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:27: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:27: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:27: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:27: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:27: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:27: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:27: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:27: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:27: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:27: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:27: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:27: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:27: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:27: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:27: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:27: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:27: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:27: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:27: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+2:27: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:27: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:27: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:27: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:27: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:27: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:27: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:27: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+Task is paused
+01/27/2024 05:42:27: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:27: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:27: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:27: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:27: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+01/27/2024 05:42:27: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:27: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:27: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:27: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:27: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:27: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:27: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+Task is paused
+01/27/2024 05:42:27: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:27: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:27: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:27: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:27: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:27: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:28: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:28: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:28: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:28: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:28: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:28: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:28: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:28: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:28: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:28: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+Task is paused
+01/27/2024 05:42:28: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:28: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:28: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:28: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:28: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:28: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:28: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:28: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:28: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:28: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:28: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:28: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:28: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:28: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:28: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+Task is paused
+01/27/2024 05:42:28: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:28: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:28: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:28: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:28: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:28: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:28: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:28: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:28: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:28: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:28: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:28: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:28: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:28: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:28: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+2:28: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:28: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:28: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:28: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:28: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:28: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:28: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:28: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:28: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:28: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:28: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:28: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:28: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:28: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:28: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:29: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:29: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:29: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:29: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:29: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:29: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:29: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+2:29: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:29: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:29: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:29: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:29: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:29: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:29: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:29: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:29: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:401/27/2024 05:42:29: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:29: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:29: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:29: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:29: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:29: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:29: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:29: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:29: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:29: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:29: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:29: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:29: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:29: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:29: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:29: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:29: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:29: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:29: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:29: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:29: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:29: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:29: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:29: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:29: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:29: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:29: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:29: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:29: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:29: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:29: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:29: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:29: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:30: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:30: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:30: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:30: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:30: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:30: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:30: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:30: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:30: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:30: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:30: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:30: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:30: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:30: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:30: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:30: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:30: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:30: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:30: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:30: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:30: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:30: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:30: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:30: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:30: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:30: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:30: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:30: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:30: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:30: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:30: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:30: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:30: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:30: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:30: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:30: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:30: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:30: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:30: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+2:30: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:30: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:30: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:30: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:30: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:30: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:30: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:31: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:31: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:31: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:31: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:31: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:31: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:31: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:31: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:31: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:31: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:31: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:31: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:31: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:31: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:31: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:31: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:31: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:31: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:31: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:31: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:31: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:31: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:31: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:31: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:31: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:31: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:31: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:31: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:31: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:31: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:32: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:32: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:32: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:32: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:32: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:32: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:32: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:32: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:32: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:32: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:32: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:32: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:32: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:32: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:32: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:32: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+2:32: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:32: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:32: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:32: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:32: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:32: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:32: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:32: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:32: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:32: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:32: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:32: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:32: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:32: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:32: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:32: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:32: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:32: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:32: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:32: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:32: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:32: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:32: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:32: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:33: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:33: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:33: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:33: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:33: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:33: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:33: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:33: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:33: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:33: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:33: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+2:33: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:33: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:33: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:33: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:33: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:33: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:33: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:33: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:33: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:33: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:33: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:33: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:33: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:33: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:33: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:33: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:33: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:33: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:33: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:33: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:33: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:33: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:33: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:33: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:33: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:33: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:33: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:33: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:33: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:33: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:33: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:33: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:33: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:33: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:34: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:34: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:34: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:34: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:34: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:34: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:34: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:34: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:34: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:34: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:34: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:34: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:34: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:34: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:34: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:34: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:34: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:34: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:34: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:34: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:34: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:34: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:34: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:34: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:34: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:34: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:34: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:34: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:34: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:34: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:34: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+2:34: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:34: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:34: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:34: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:34: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:34: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:34: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:34: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:34: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:34: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:34: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:34: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:34: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+Task is paused
+01/27/2024 05:42:34: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:34: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:34: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:34: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:34: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:34: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:34: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:34: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:34: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:34: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:34: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:34: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:34: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:34: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:34: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:34: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:34: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:35: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:35: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:35: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:35: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:35: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:35: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:35: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:35: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:35: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:35: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:35: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:35: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:35: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:35: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:35: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:35: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:35: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:35: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:35: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:35: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:35: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:35: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:35: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:35: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:35: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:35: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:35: Error: Failed to connect to 172.18.0.3:5432
+72.18.0.3:5432
+01/27/2024 05:42:35: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:35: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:35: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:35: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:35: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:35: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:35: Error: Failed to connect to 172.18.0.3:5432
+72.18.0.3:5432
+Task is paused
+01/27/2024 05:42:35: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:35: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:35: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:35: Error: Failed to connect to 172.18.0.3:5432
+01/27/2024 05:42:35: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+01/27/2024 05:42:35: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:35: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:35: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:35: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:35: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+01/27/2024 05:42:35: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+2:35: Error: Failed to connect to 172.18.0.3:5432
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+01/27/2024 05:42:36: Error: 57P03: система баз данных запускается
+01/27/2024 05:42:36: Error: 57P03: система баз данных запускается
+01/27/2024 05:42:36: Error: 57P03: система баз данных запускается
+01/27/2024 05:42:36: Error: 57P03: система баз данных запускается
+01/27/2024 05:42:36: Error: 57P03: система баз данных запускается
+Task is paused
+01/27/2024 05:42:36: Error: 57P03: система баз данных запускается
+01/27/2024 05:42:36: Error: 57P03: система баз данных запускается
+01/27/2024 05:42:36: Error: 57P03: система баз данных запускается
+01/27/2024 05:42:36: Error: 57P03: система баз данных запускается
+Task is paused
+2:36: Error: 57P03: система баз данных запускается
+01/27/2024 05:42:36: Error: 57P03: система баз данных запускается
+Task is paused
+01/27/2024 05:42:36: Error: 57P03: система баз данных запускается
+01/27/2024 05:42:36: Error: 57P03: система баз данных запускается
+01/27/2024 05:42:36: Error: 57P03: система баз данных запускается
+Task is paused
+2:36: Error: 57P03: система баз данных запускается
+01/27/2024 05:42:36: Error: 57P03: система баз данных запускается
+01/27/2024 05:42:36: Error: 57P03: система баз данных запускается
+01/27/2024 05:42:36: Error: 57P03: система баз данных запускается
+01/27/2024 05:42:36: Error: 57P03: система баз данных запускается
+01/27/2024 05:42:36: Error: 57P03: система баз данных запускается
+01/27/2024 05:42:36: Error: 57P03: система баз данных запускается
+01/27/2024 05:42:36: Error: 57P03: система баз данных запускается
+Task is paused
+01/27/2024 05:42:36: Error: 57P03: система баз данных запускается
+Task is paused
+01/27/2024 05:42:36: Error: 57P03: система баз данных запускается
+Task is paused
+01/27/2024 05:42:36: Error: 57P03: система баз данных запускается
+01/27/2024 05:42:36: Error: 57P03: система баз данных запускается
+Task is paused
+01/27/2024 05:42:36: Error: 57P03: система баз данных запускается
+Task is paused
+Task is paused
+2:36: Error: 57P03: система баз данных запускается
+Task is paused
+01/27/2024 05:42:36: Error: 57P03: система баз данных запускается
+Task is paused
+01/27/2024 05:42:36: Error: 57P03: система баз данных запускается
+01/27/2024 05:42:36: Error: 57P03: система баз данных запускается
+Task is paused
+01/27/2024 05:42:36: Error: 57P03: система баз данных запускается
+01/27/2024 05:42:36: Error: 57P03: система баз данных запускается
+01/27/2024 05:42:36: Error: 57P03: система баз данных запускается
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+Task is paused
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+Task is paused
+2:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+Task is paused
+2:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+Task is paused
+2:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+Task is paused
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+Task is paused
+2:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:401/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:41: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:41: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:41: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:41: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:401/27/2024 05:42:41: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 01/27/2024 05:401/27/2024 05:42:41: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 01/27/2024 05:42:41: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:41: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:41: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+Task is paused
+2:41: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:41: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:41: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+Task is paused
+01/27/2024 05:42:41: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:41: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+Task is paused
+2:41: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:41: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:41: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+Task is paused
+01/27/2024 05:42:41: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:41: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+Task is paused
+2:41: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+Task is paused
+2:41: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+Task is paused
+2:41: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:41: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+Task is paused
+01/27/2024 05:42:41: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+Task is paused
+Task is paused
+01/27/2024 05:42:41: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:41: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+Task is paused
+01/27/2024 05:42:41: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:41: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:41: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:41: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+Task is paused
+01/27/2024 05:42:41: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+Task is paused
+01/27/2024 05:42:41: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+Task is paused
+Task is paused
+2:41: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:41: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+Task is paused
+2:41: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+Task is paused
+01/27/2024 05:42:41: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+Task is paused
+Task is paused
+2:41: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:41: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+Task is paused
+01/27/2024 05:42:41: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+Task is paused
+01/27/2024 05:401/27/2024 05:42:42: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:42:42: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+Task is paused
+01/27/2024 05:42:42: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+12.2.0, 64-bit
+01/27/2024 05:43:32: Task is started
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+Task is paused
+01/27/2024 05:43:32: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:32: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:32: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:32: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:32: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:32: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:32: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:32: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:32: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:32: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:32: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:32: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:32: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:32: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:32: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:32: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:32: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:32: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:32: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:32: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:32: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:32: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+3:32: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:32: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:32: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:32: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:32: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:32: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:32: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:32: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:32: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:32: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+3:32: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:32: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:32: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:32: Error: Failed to connect to 172.19.0.4:5432
+72.19.0.4:5432
+01/27/2024 05:43:32: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:32: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:32: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:32: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:32: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:32: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+Task is paused
+01/27/2024 05:43:32: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:32: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+Task is paused
+01/27/2024 05:43:32: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:32: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:32: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:32: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:32: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:32: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:32: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:32: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:32: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+3:33: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+3:33: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+Task is paused
+3:33: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+Task is paused
+3:33: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+Task is paused
+3:33: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+3:33: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+3:33: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+3:33: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+Task is paused
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+Task is paused
+Task is paused
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+Task is paused
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+Task is paused
+Task is paused
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+Task is paused
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+Task is paused
+3:33: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+3:33: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+Task is paused
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+Task is paused
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+Task is paused
+Task is paused
+3:33: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:33: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+Task is paused
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+3:34: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+3:34: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+Task is paused
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+3:34: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+Task is paused
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+Task is paused
+3:34: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+Task is paused
+Task is paused
+3:34: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+Task is paused
+3:34: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+Task is paused
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+Task is paused
+Task is paused
+3:34: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+3:34: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+Task is paused
+3:34: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+Task is paused
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+Task is paused
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+Task is paused
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+Task is paused
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+3:34: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+Task is paused
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:34: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:35: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:35: Error: Failed to connect to 172.19.0.4:5432
+Task is paused
+01/27/2024 05:43:35: Error: Failed to connect to 172.19.0.4:5432
+01/27/2024 05:49:49: Task is started
+01/27/2024 05:49:50: Error: Failed to connect to 172.20.0.4:5432
+01/27/2024 05:50:10: Error: 57P03: система баз данных запускается
+01/27/2024 05:53:40: Task is started
+01/27/2024 05:53:40: Error: Failed to connect to 172.21.0.3:5432
+01/27/2024 05:54:00: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:54:20: Error: 57P01: закрытие подключения по команде администратора
+01/27/2024 05:54:48: Error: Resource temporarily unavailable
+01/27/2024 05:55:04: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:56:54: Task is started
+01/27/2024 05:56:55: Error: Failed to connect to 172.22.0.4:5432
+01/27/2024 05:57:15: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 05:57:34: Error: 57P01: закрытие подключения по команде администратора
+01/27/2024 05:58:02: Error: Resource temporarily unavailable
+01/27/2024 06:12:27: Task is started
+01/27/2024 06:12:28: Error: Failed to connect to 172.23.0.4:5432
+01/27/2024 06:12:48: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 06:13:07: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 06:13:27: Error: 57P01: закрытие подключения по команде администратора
+01/27/2024 06:13:55: Error: Resource temporarily unavailable
+01/27/2024 06:17:41: Task is started
+01/27/2024 06:17:41: Error: Failed to connect to 172.24.0.3:5432
+01/27/2024 06:18:24: Task is started
+01/27/2024 06:18:24: Error: Failed to connect to 172.25.0.3:5432
+01/27/2024 06:18:29: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 06:18:34: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 06:18:39: Error: 57P01: закрытие подключения по команде администратора
+Task is paused
+01/27/2024 06:18:52: Error: Resource temporarily unavailable
+Task is paused
+Task is paused
+01/27/2024 06:19:00: Error: Resource temporarily unavailable
+Task is paused
+01/27/2024 06:28:11: Task is started
+01/27/2024 06:28:12: Error: Failed to connect to 172.26.0.3:5432
+01/27/2024 06:28:16: Error: 28000: роль "postgresss" не существует
+01/27/2024 06:28:21: Error: 28000: роль "postgresss" не существует
+01/27/2024 06:28:26: Error: 28000: роль "postgresss" не существует
+01/27/2024 06:28:50: Task is started
+01/27/2024 06:28:50: Error: Failed to connect to 172.27.0.4:5432
+01/27/2024 06:28:55: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 06:29:00: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 06:29:05: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 06:29:10: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 06:29:34: Task is started
+01/27/2024 06:29:34: Error: Failed to connect to 172.28.0.4:5432
+01/27/2024 06:29:37: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 06:29:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 06:29:43: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 06:29:55: Task is started
+01/27/2024 06:29:56: Error: Failed to connect to 172.29.0.4:5432
+01/27/2024 06:29:59: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 06:30:01: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 06:30:04: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 06:30:07: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 06:30:10: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 06:30:13: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 06:30:16: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 06:30:19: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 06:30:22: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 06:30:25: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 06:30:28: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 06:30:31: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 06:30:34: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 06:30:37: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 06:30:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 06:30:43: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 06:31:41: Task is started
+01/27/2024 06:31:42: Error: Failed to connect to 172.30.0.4:5432
+01/27/2024 06:31:45: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 06:31:48: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 06:31:51: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 06:31:54: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 06:33:11: Task is started
+01/27/2024 06:33:11: Error: Failed to connect to 172.31.0.4:5432
+01/27/2024 06:33:14: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 06:33:17: Error: 57P01: закрытие подключения по команде администратора
+Task is paused
+Task is paused
+01/27/2024 06:33:28: Error: Resource temporarily unavailable
+Task is paused
+Task is paused
+Task is paused
+01/27/2024 06:33:36: Error: Resource temporarily unavailable
+01/27/2024 06:33:36: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 06:33:38: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 06:33:41: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 06:33:44: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 08:16:50: Task is started
+01/27/2024 08:16:51: Error: Failed to connect to 192.168.0.4:5432
+01/27/2024 08:16:54: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 08:16:56: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 08:16:59: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 08:17:02: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 08:17:05: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 08:17:08: Error: 57P01: закрытие подключения по команде администратора
+Task is paused
+Task is paused
+01/27/2024 08:17:19: Error: Resource temporarily unavailable
+Task is paused
+Task is paused
+Task is paused
+01/27/2024 08:17:27: Error: Resource temporarily unavailable
+Task is paused
+01/27/2024 08:17:32: Error: The operation has timed out.
+Task is paused
+01/27/2024 08:17:35: Error: The operation has timed out.
+Task is paused
+01/27/2024 08:17:38: Error: The operation has timed out.
+Task is paused
+01/27/2024 08:17:41: Error: The operation has timed out.
+Task is paused
+01/27/2024 08:17:41: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 08:17:41: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 08:17:44: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 08:17:47: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 08:17:50: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 08:17:53: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 08:17:56: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 08:17:59: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 08:18:02: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 08:18:05: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 08:18:08: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 08:18:11: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 08:18:14: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 08:18:17: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 08:18:20: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 08:18:23: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 08:18:26: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 08:18:29: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 08:18:32: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 08:18:35: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 08:18:38: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 08:18:41: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 08:23:48: Task is started
+01/27/2024 08:23:49: Error: Failed to connect to 192.168.16.4:5432
+01/27/2024 08:23:52: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 08:23:54: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 08:23:57: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 08:24:00: Error: 57P01: закрытие подключения по команде администратора
+Task is paused
+Task is paused
+01/27/2024 08:24:11: Error: Resource temporarily unavailable
+Task is paused
+Task is paused
+Task is paused
+01/27/2024 08:24:19: Error: Resource temporarily unavailable
+Task is paused
+01/27/2024 08:24:24: Error: The operation has timed out.
+Task is paused
+01/27/2024 08:24:27: Error: The operation has timed out.
+01/27/2024 08:24:27: Error: Failed to connect to 192.168.16.4:5432
+01/27/2024 08:24:27: Error: Failed to connect to 192.168.16.4:5432
+01/27/2024 08:24:27: Error: Failed to connect to 192.168.16.4:5432
+01/27/2024 08:24:27: Error: Failed to connect to 192.168.16.4:5432
+01/27/2024 08:26:51: Task is started
+01/27/2024 08:26:51: Task is paused
+01/27/2024 08:26:54: Task is paused
+01/27/2024 08:26:57: Task is paused
+01/27/2024 08:27:00: Task is paused
+01/27/2024 08:27:03: Task is paused
+01/27/2024 08:27:06: Task is paused
+01/27/2024 08:27:09: Task is paused
+01/27/2024 08:27:12: Task is paused
+01/27/2024 08:27:15: Task is paused
+01/27/2024 08:28:00: Task is started
+01/27/2024 08:28:00: Task is paused
+01/27/2024 08:28:03: Task is paused
+01/27/2024 08:28:06: Task is paused
+01/27/2024 08:28:10: Task is paused
+01/27/2024 08:29:27: Task is started
+01/27/2024 08:29:27: Task is paused
+01/27/2024 08:29:30: Task is paused
+01/27/2024 08:31:17: Task is started
+01/27/2024 08:31:17: Error: Failed to connect to 192.168.96.4:5432
+01/27/2024 08:31:20: Error: Failed to connect to 192.168.96.4:5432
+01/27/2024 08:31:24: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 08:31:26: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 08:31:29: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 08:31:32: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 08:31:35: Error: 57P01: закрытие подключения по команде администратора
+01/27/2024 08:31:46: Error: Resource temporarily unavailable
+01/27/2024 08:31:54: Error: Resource temporarily unavailable
+01/27/2024 08:31:59: Error: The operation has timed out.
+01/27/2024 08:32:02: Error: The operation has timed out.
+01/27/2024 08:32:05: Error: The operation has timed out.
+01/27/2024 08:32:06: Error: Failed to connect to 192.168.96.4:5432
+01/27/2024 08:32:06: Error: Failed to connect to 192.168.96.4:5432
+01/27/2024 08:32:06: Error: Failed to connect to 192.168.96.4:5432
+01/27/2024 08:32:06: Error: Failed to connect to 192.168.96.4:5432
+01/27/2024 08:33:12: Task is started
+01/27/2024 08:33:13: Error: Failed to connect to 192.168.112.4:5432
+01/27/2024 08:33:15: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 08:33:18: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 08:33:21: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 08:33:24: Error: 57P01: закрытие подключения по команде администратора
+01/27/2024 08:33:35: Error: Resource temporarily unavailable
+01/27/2024 08:35:12: Task is started
+01/27/2024 08:35:13: Error: Failed to connect to 192.168.128.3:5432
+Task is paused
+01/27/2024 08:35:16: Error: 57P03: система баз данных запускается
+Task is paused
+01/27/2024 08:35:21: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+Task is paused
+01/27/2024 08:35:21: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+Task is paused
+01/27/2024 08:35:24: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+Task is paused
+01/27/2024 08:35:28: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+Task is paused
+01/27/2024 08:35:31: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+Task is paused
+01/27/2024 08:35:34: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+Task is paused
+01/27/2024 08:35:37: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+Task is paused
+01/27/2024 08:35:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+Task is paused
+01/27/2024 08:35:43: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+Task is paused
+01/27/2024 08:35:46: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+Task is paused
+01/27/2024 08:35:49: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+Task is paused
+01/27/2024 08:35:52: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 08:36:10: Task is started
+01/27/2024 08:36:11: Error: Failed to connect to 192.168.144.4:5432
+Task is paused
+01/27/2024 08:36:14: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 08:37:46: Task is started
+01/27/2024 08:37:46: Error: Failed to connect to 192.168.160.4:5432
+01/27/2024 08:37:49: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 08:37:52: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 08:37:55: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 08:37:58: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 08:38:01: Error: 57P01: закрытие подключения по команде администратора
+01/27/2024 08:38:12: Error: Resource temporarily unavailable
+01/27/2024 08:42:34: Task is started
+01/27/2024 08:42:35: Error: Failed to connect to 192.168.176.3:5432
+Task is paused
+01/27/2024 08:42:38: Error: Failed to connect to 192.168.176.3:5432
+Task is paused
+01/27/2024 08:42:43: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+Task is paused
+01/27/2024 08:42:44: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+Task is paused
+01/27/2024 08:42:47: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+Task is paused
+01/27/2024 08:42:50: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+Task is paused
+01/27/2024 08:42:53: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+Task is paused
+01/27/2024 08:42:56: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+Task is paused
+01/27/2024 08:42:59: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+Task is paused
+01/27/2024 08:43:02: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+Task is paused
+01/27/2024 08:43:05: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 08:46:45: Task is started
+01/27/2024 08:46:45: Error: Failed to connect to 192.168.192.4:5432
+Task is paused
+01/27/2024 08:46:48: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+Task is paused
+01/27/2024 08:46:51: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 08:48:12: Task is started
+01/27/2024 08:48:12: Error: Failed to connect to 192.168.208.3:5432
+Task is paused
+01/27/2024 08:48:16: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+Task is paused
+01/27/2024 08:48:18: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+Task is paused
+01/27/2024 08:48:21: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 08:50:21: Task is started
+01/27/2024 08:50:22: Error: Failed to connect to 192.168.224.4:5432
+01/27/2024 08:50:24: Error: Failed to connect to 192.168.224.4:5432
+Task is paused
+01/27/2024 08:50:31: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 08:50:34: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 08:50:37: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 08:50:40: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 08:50:43: Error: 57P01: закрытие подключения по команде администратора
+Task is paused
+Task is paused
+01/27/2024 08:50:54: Error: Resource temporarily unavailable
+Task is paused
+01/27/2024 08:50:57: Error: Resource temporarily unavailable
+Task is paused
+01/27/2024 08:55:24: Task is started
+01/27/2024 08:55:25: Error: Failed to connect to 192.168.240.4:5432
+01/27/2024 08:55:27: Error: Failed to connect to 192.168.240.4:5432
+01/27/2024 08:55:32: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 08:55:33: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 08:55:36: PostgreSQL version: PostgreSQL 16.1 (Debian 16.1-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+01/27/2024 08:55:39: Error: 57P01: закрытие подключения по команде администратора
+Task is paused
+Task is paused
+01/27/2024 08:55:50: Error: Resource temporarily unavailable
+Task is paused
+01/27/2024 08:55:53: Error: Resource temporarily unavailable
+Task is paused
